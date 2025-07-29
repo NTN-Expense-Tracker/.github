@@ -1,4 +1,4 @@
-# NTN Expense Manager
+# NTN Expense Manager 👋
 
 NTN Expense Manager is a comprehensive application designed to help users manage their expenses effectively. It includes features for tracking transactions, setting financial goals, and analyzing spending patterns.
 
