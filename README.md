@@ -42,7 +42,7 @@ The frontend is a React Native application located in the `ntn-expense-manager/`
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TharinduNilan/ntn-expense-manager-backend.git
+   git clone https://github.com/NTN-Expense-Tracker
    ```
 2. Navigate to the backend directory and install dependencies:
    ```bash
