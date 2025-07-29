@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or support, please contact [Tharindu Nilan](mailto:tharindu@example.com).
+For any inquiries or support, please contact [Tharindu Nilan](https://tharindu.site/).
