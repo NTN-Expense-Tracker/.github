@@ -63,14 +63,6 @@ The frontend is a React Native application located in the `ntn-expense-manager/`
    npm start
    ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any inquiries or support, please contact [Tharindu Nilan](https://tharindu.site/).
