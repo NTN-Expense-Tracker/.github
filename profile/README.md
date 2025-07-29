@@ -28,10 +28,10 @@ The frontend is a React Native application located in the `ntn-expense-manager/`
 
 ## Features
 
-- **Transaction Management**: Add, edit, and delete transactions.
+- **Transaction Management**: Add transactions.
 - **Goal Setting**: Define financial goals and track progress.
 - **Analytics**: Visualize spending patterns and trends.
-- **Authentication**: Secure user authentication for data privacy.
+- **Authentication**: Secure clerk user authentication for data privacy.
 
 ## Installation
 
