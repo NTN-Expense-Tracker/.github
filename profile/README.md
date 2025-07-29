@@ -51,7 +51,7 @@ The frontend is a React Native application located in the `ntn-expense-manager/`
    ```
 3. Start the backend server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. Navigate to the frontend directory and install dependencies:
    ```bash
